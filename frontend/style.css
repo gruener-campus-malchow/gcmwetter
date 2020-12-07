@@ -1,0 +1,33 @@
+header {
+    background: white;
+    padding: 1em;
+    text-align: center;
+}
+
+h{
+    color: darkgreen;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+    color: green;
+}
+body {
+    background-image: url(https://cis.gruener-campus-malchow.de/bg_1.png);
+    background-attachment: fixed;
+}
+
+table{
+    border: none;
+    width: 100%;
+
+}
+td{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+

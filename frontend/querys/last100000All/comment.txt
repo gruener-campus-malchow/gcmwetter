@@ -1,0 +1,1 @@
+Diese Abfrage generiert die letzten 100 000 Einträge aus der Datenbank.

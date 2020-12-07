@@ -1,0 +1,1 @@
+Die letzten 1000 Messungen des Kombisensors.
