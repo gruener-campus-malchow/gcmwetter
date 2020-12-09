@@ -11,3 +11,6 @@ The system has severeal layers. The sensors are sending their values to the rece
 | backend | documentation of the database |
 | frontend | the website |
 | raspi | the code for reading, storing and sending records |
+
+## Plans
+We want to rebuild the project.
